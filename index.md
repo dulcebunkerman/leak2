@@ -1,6 +1,7 @@
 ## Collection One
 
 **GRUPPENSEHER 1** to: [redacted]
+
 _________________________________
 
 Salutations,
@@ -16,8 +17,8 @@ Friedemann was boasting about some sort of new method he'd developed,
 maybe that's something you could share?
 
 Also, if you run into anyone from Gruppenseher 3 (I know you all rub 
-elbows sometimes), tell them we thought the fires were a nice touch 
-- and we'll have to try to one up them with our next cleanup.
+elbows sometimes), tell them we thought the fires were a nice touch -
+and we'll have to try to one up them with our next cleanup.
 
 ________________________________
 
