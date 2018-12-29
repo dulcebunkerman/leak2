@@ -1,6 +1,6 @@
 ## Part One
 
-**GRUPPENSEHER 1** to: **[redacted]**
+**GRUPPENSEHER 1** to: **GRUPPENSEHER 2**
 
 _________________________________
 
