@@ -20,9 +20,8 @@ Also, if you run into anyone from Gruppenseher 3 (I know you all rub
 elbows sometimes), tell them we thought the fires were a nice touch -
 and we'll have to try to one up them with our next cleanup.
 
-________________________________
-
 04:32 PM August 21 2018
+_________________________________
 
 [Back](https://dulcebunkerman.github.io/leak)
 [Next](https://dulcebunkerman.github.io/leak2/)
