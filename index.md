@@ -1,6 +1,5 @@
 ## Collection One
 
-```
 **GRUPPENSEHER 1** to: [redacted]
 _________________________________
 
@@ -24,7 +23,5 @@ ________________________________
 
 04:32 PM August 21 2018
 
-```
-
-1. [Index](https://dulcebunkerman.github.io/leak/)
-2. [Collection One](https://dulcebunkerman.github.io/leak/)
+[Back](https://dulcebunkerman.github.io/leak)
+[Next](https://dulcebunkerman.github.io/leak2/)
